@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This script grabs the first 105 accession ids from the Metadata file arranged by country and writes it to a new .txt file.
+# This script grabs the accession ids that matches a given country from the Metadata file arranged by country and writes it to a new .txt file.
 # Countries in the Metadata: usa_wc, italy_milan, france, germany, india, northamerica_ny, japan_tokyo, usa_nashville, china
 
 country_metagenome="$1"
