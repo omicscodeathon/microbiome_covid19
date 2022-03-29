@@ -1,2 +1,2 @@
-# microbiome_diabetes
-Microbiome Data Mining of Diabetes
+# microbiome_covid19
+Microbiome Data Mining of CoVID-19
