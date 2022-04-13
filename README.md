@@ -12,7 +12,7 @@ Playing a key role in precision medicine, the gut microbiome is one important co
 
 
 ## Objective:
-In this study we implemented a data mining and meta-analysis approach to cluster and analyze COVID-19 microbiome sequences from cross-study datasets. The goal was to compare the community structure across these datasets and to cluster the resulting microorganisms that were mostly abundant in or common between each country’s samples (USA, Italy, Germany, France, China, India, Japan, North America) and to see if some these microorganisms are linked to diseases. 
+In this study we implemented a data mining and meta-analysis approach to cluster and analyze COVID-19 microbiome sequences from cross-study datasets. The goal was to compare the community structure across these datasets and to cluster the resulting microorganisms that were mostly abundant in or common between each country’s samples (USA, Italy, Germany, France, China, India, Japan, North America) and to see if some of these microorganisms are linked to diseases. 
 
 ## Dependencies 🖥️:
 *Software:*
