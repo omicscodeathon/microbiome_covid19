@@ -40,5 +40,5 @@ Assign taxonomy to phylogenetically informative marker-gene data, such as the 16
 ## Team members:
 - [Sofia Sehli](https://github.com/SofSei). Mohammed VI University of Health Sciences of Casablanca, Morocco.
 - [Nihal Habib](https://github.com/NihalHB). Mohammed VI University of Health Sciences of Casablanca, Morocco.
-- [Adijat Jimoh](https://github.com/adijatj). Division of Immunology, Faculty of Health Sciences, Institute of Infectious Diseases and Molecular Medicine, University of Cape Town, South Africa.
+- [Adijat Jimoh](https://github.com/adijatj). Division of Immunology, Department of Pathology, Institute of Infectious Diseases and Molecular Medicine, University of Cape Town, South Africa.
  Department of Genetics, Genomics and Bioinformatics, National Biotechnology Development Agency, Abuja, Nigeria
