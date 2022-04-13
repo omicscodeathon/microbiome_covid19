@@ -6,8 +6,13 @@ In the year 2020, SARS-CoV-2 (coronavirus 2019, COVID-19) has created an excepti
 
 Human microbiotas are symbiotic populations of microorganisms that live with humans. They play a key function in the immunological response of the host to respiratory viral infection. However,there is inadequate evidence to link the human microbiome to coronavirus disease (COVID-19). Also, the disparities in COVID-19 microbiome composition between people of different demographic and clinical status – age, race, sex, gender, varying symptoms and countries remain uncertain at the moment
 
+Antibiotic treatment is the primary therapeutic method utilized to treat COVID-19 infection. Given that such method quickly produces antibiotic-resistant strains of opportunistic microorganisms, improved antibiotic therapy are essential to effectively control long-term symptoms and future pandemics, notably in patients infected with SARS-CoV-2.
+
+Playing a key role in precision medicine, the gut microbiome is one important component to study among different populations in order to develop effective adjuncent treatements for instance targeted probiotics or FMT that can be of great use for the COVID-19 infection or for long-term COVID one helping to ceize symptoms such as diarrhea. 
+
+
 ## Objective:
-In this study we implemented a data mining and meta-analysis approach to cluster and analyze COVID-19 microbiome sequences from cross-study datasets. The goal was to compare the community structure across these datasets and to determine a link between the microbiome and COVID-19 patients based on the metadata.
+In this study we implemented a data mining and meta-analysis approach to cluster and analyze COVID-19 microbiome sequences from cross-study datasets. The goal was to compare the community structure across these datasets and to cluster the resulting microorganisms that were mostly abundant in or common between each country’s samples (USA, Italy, Germany, France, China, India, Japan, North America) and to see if some these microorganisms are linked to diseases. 
 
 ## Dependencies 🖥️:
 *Software:*
