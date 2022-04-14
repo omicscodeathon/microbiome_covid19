@@ -28,7 +28,7 @@ Binaries for the current release version of DADA2 (1.14) are available from Bioc
 BiocManager::install("dada2", version = "3.10")`
 
 ## DADA2 workflow:
-![worklow](https://github.com/omicscodeathon/microbiome_covid19/blob/main/figures/DADA2-Workflow.png) 
+![worklow](https://github.com/omicscodeathon/microbiome_covid19/blob/main/figures/workflow.png)
 
 ## Output:
 **1- A feature table of amplicon sequence variants (an ASV table):**
