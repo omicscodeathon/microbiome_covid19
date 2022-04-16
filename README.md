@@ -1,5 +1,5 @@
 # Covid19_Microbiome
-Using a data mining approach to analyze COVID-19 microbime sequences accross different countries.
+Using a data mining approach to analyze COVID-19 microbiome sequences accross different countries.
 
 ## Background :dna:: 
 In the year 2020, SARS-CoV-2 (coronavirus 2019, COVID-19) has created an exceptional circumstance. Despite the fact that numerous other viruses had surfaced in the past, none of them had caused a global emergency like this one. According to official sources, this virus started in China and has been rapidly spreading throughout the world. On March 11, the World Health Organization (WHO) proclaimed the pandemic, and a huge number of countries have had to put in place measures to combat infection transmission.
@@ -40,5 +40,5 @@ Assign taxonomy to phylogenetically informative marker-gene data, such as the 16
 ## Team members:
 - [Sofia Sehli](https://github.com/SofSei). Mohammed VI University of Health Sciences of Casablanca, Morocco.
 - [Nihal Habib](https://github.com/NihalHB). Mohammed VI University of Health Sciences of Casablanca, Morocco.
-- [Adijat Jimoh](https://github.com/adijatj). Division of Immunology, Department of Pathology, Institute of Infectious Diseases and Molecular Medicine, University of Cape Town, South Africa.
+- [Adijat Jimoh](https://github.com/adijatj). Division of Immunology, Department of Pathology, Institute of Infectious Disease and Molecular Medicine, University of Cape Town, South Africa.
  Department of Genetics, Genomics and Bioinformatics, National Biotechnology Development Agency, Abuja, Nigeria
