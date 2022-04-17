@@ -38,7 +38,7 @@ A matrix with rows corresponding to samples and columns to ASVs, in which the va
 Assign taxonomy to phylogenetically informative marker-gene data, such as the 16S or 18S rRNA gene and the ITS region in fungi. make taxonomic assignments by comparing to a set of taxonomically assigned sequences in a provided reference fasta file. Appropriately formatted reference fasta files for several popular reference databases are available, including Silva, GreenGenes, RDP and UNITE.
 
 ## Team members:
-- [Sofia Sehli](https://github.com/SofSei). Mohammed VI University of Health Sciences of Casablanca, Morocco.
-- [Nihal Habib](https://github.com/NihalHB). Mohammed VI University of Health Sciences of Casablanca, Morocco.
-- [Adijat Jimoh](https://github.com/adijatj). Division of Immunology, Department of Pathology, Institute of Infectious Disease and Molecular Medicine, University of Cape Town, South Africa.
+- [Sofia Sehli](https://github.com/SofSei). Mohammed VI University of Health Sciences of Casablanca, Morocco (Team Lead)
+- [Nihal Habib](https://github.com/NihalHB). Mohammed VI University of Health Sciences of Casablanca, Morocco (Writer)
+- [Adijat Jimoh](https://github.com/adijatj). Division of Immunology, Department of Pathology, Institute of Infectious Disease and Molecular Medicine, University of Cape Town, South Africa (Co-Lead/Technical)
  Department of Genetics, Genomics and Bioinformatics, National Biotechnology Development Agency, Abuja, Nigeria
