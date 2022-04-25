@@ -12,12 +12,12 @@ Playing a key role in precision medicine, the gut microbiome is one important co
 
 
 ## Objective:
-In this study we implemented a data mining and meta-analysis approach to cluster and analyze COVID-19 microbiome sequences from cross-study datasets. The goal was to compare the community structure across these datasets and to cluster the resulting microorganisms that were mostly abundant in or common between each country’s samples (USA, Italy, Germany, France, China, India, Japan, North America) and to see if some of these microorganisms are linked to diseases. 
+In this study we implemented a data mining and meta-analysis approach to cluster and analyze COVID-19 microbiome sequences from cross-study datasets. The goal was to compare the community structure across these datasets and to cluster the resulting microorganisms that were mostly abundant in or common between each country’s samples (USA-NA, USA-WC, Italy, Germany, France, China, India, Japan, North America) and to see if some of these microorganisms are linked to diseases. 
 
 ## Dependencies 🖥️:
 *Software:*
 
-[DADA2](https://benjjneb.github.io/dada2/): **Fast, accurate, single-nucleotide resolution for amplicon data**
+- **[DADA2](https://benjjneb.github.io/dada2/): **Fast, accurate, single-nucleotide resolution for amplicon data**
 The DADA2 algorithm for the inference of exact amplicon sequence variants (ASVs) from amplicon data is implemented in the dada2 R package available in Bioconductor. The core algorithm replaces the traditional OTU picking step in 16S/18S/ITS marker-gene surveys with the inference of the exact sequences present in the sample after errors are removed.
 
 ### Installation:
@@ -27,8 +27,25 @@ Binaries for the current release version of DADA2 (1.14) are available from Bioc
      install.packages("BiocManager")
 BiocManager::install("dada2", version = "3.10")`
 
+- **[DECIPHER](http://www2.decipher.codes/)**: DECIPHER is a software toolset that can be used for deciphering and managing biological sequences efficiently using the R programming language. 
+
+### Installation:
+`if (!requireNamespace("BiocManager", quietly=TRUE))
+    install.packages("BiocManager")
+BiocManager::install("DECIPHER")`
+
+- **[Phyloseq](https://joey711.github.io/phyloseq/)**: The phyloseq package is a tool to import, store, analyze, and graphically display complex phylogenetic sequencing data that has already been clustered into Operational Taxonomic Units (OTUs), especially when there is associated sample data, phylogenetic tree, and/or taxonomic assignment of the OTUs.
+
+### Installation:
+`if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("phyloseq")`
+
 ## DADA2 workflow:
-![worklow](https://github.com/omicscodeathon/microbiome_covid19/blob/main/figures/workflow.png)
+![worklow](https://github.com/omicscodeathon/microbiome_covid19/blob/main/figures/Beige%20Build%20Business%20Process%20Flowchart.png)
+
+## Statistical analysis: Alpha and Beta diversity
+![workflow](https://github.com/omicscodeathon/microbiome_covid19/blob/main/figures/stats.png)
 
 ## Output:
 **1- A feature table of amplicon sequence variants (an ASV table):**
